@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3578fd,100:098500&height=180&text=Welcome&animation=fadeIn&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3578fd,100:098500&height=180&text=환영합니다!&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 백엔드 꿈나무🌳 </h2>  
@@ -39,9 +39,4 @@
     </div>
     <br/>
 
-<br>
-        <div style="text-align: center;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=luna001631&bg_color=60,badcfd,a7c7fb&title_color=ffffff&text_color=ffffff"
-         />  </div> 
-    </div>
     
