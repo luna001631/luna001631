@@ -9,7 +9,7 @@
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
 
-#### Front-end
+##### Front-end
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -18,7 +18,7 @@
 
 <br>
 
-#### Back-end
+##### Back-end
 
 <img src="https://img.shields.io/badge/java-1E8CBE?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -32,11 +32,7 @@
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@luna001631> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@luna001631"> </a>
-         <a href=https://www.notion.so/2c733a224109443c9f7b09b7b8a0a6a9> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/2c733a224109443c9f7b09b7b8a0a6a9"> </a>
-         <a href=mailto:luna001631@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:luna001631@gmail.com"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    <br/>
+         <a href=https://www.notion.so/2c733a224109443c9f7b09b7b8a0a6a9> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=[https://www.notion.so/2c733a224109443c9f7b09b7b8a0a6a9](https://www.notion.so/luna001631/Luna-s-Dashboard-2c733a224109443c9f7b09b7b8a0a6a9)https://www.notion.so/luna001631/Luna-s-Dashboard-2c733a224109443c9f7b09b7b8a0a6a9"> </a>
+
 
     
