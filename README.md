@@ -2,8 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3578fd,100:098500&height=180&text=환영합니다!&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 백엔드 꿈나무🌳 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요. 저는 성장하는 것을 꾸준히 고민하는 백엔드 꿈나무입니다!</li></li> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌳 </h2>  
     </div>
     <br/>
     <div align= "center">
